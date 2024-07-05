@@ -1,4 +1,4 @@
-# The-Ping-Pong-GameDetailed Description of Ping Pong Game
+# Detailed Description of Ping Pong Game
 
 Imports and Initialization:
 
